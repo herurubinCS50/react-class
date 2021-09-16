@@ -1,9 +1,16 @@
 # create-react-app on Render
 
-This is a minimal React static site bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-
-The sample app is deployed on Render at https://cra.onrender.com.
+ 
 
 ## Deployment
+Live application:
+https://heru-rubin.onrender.com/
 
-Follow the guide at https://render.com/docs/deploy-create-react-app.
+How did you deploy it?
+deployed to Render by linking their service to the Github repo and configuring the build and start scripts in the Render configuration
+
+What code editor are you using?
+jetbrains Webstorm
+
+
+
